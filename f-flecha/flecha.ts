@@ -3,7 +3,7 @@
  * Ventajas de la función flecha
  * - Código minimalista
  * - 1. Mantener nuestro código lo mas legible
- * - 2.
+ * - 2. Contexto de THIS en diferentes scopes
  * */
 let fNormal = function functionNormal(par: string) {
     return par;
@@ -15,7 +15,6 @@ let fFlecha = parametro => parametro;
 
 console.debug(`Funcion --> ${fNormal('Normal')}`);
 console.debug(`Funcion --> ${fFlecha('Flecha')}`);
-
 
 
 

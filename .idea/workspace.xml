@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="51c039ac-2726-4b82-a4b8-4a986e32092c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/f-flecha/flecha.js" beforeDir="false" afterPath="$PROJECT_DIR$/f-flecha/flecha.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/f-flecha/flecha.ts" beforeDir="false" afterPath="$PROJECT_DIR$/f-flecha/flecha.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/f-flecha/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/variable.js" beforeDir="false" afterPath="$PROJECT_DIR$/variables/variable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/variable.ts" beforeDir="false" afterPath="$PROJECT_DIR$/variables/variable.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/hola-mundo.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/hola-mundo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/hola-mundo.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/hola-mundo.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,19 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.js">
+        <entry file="file://$PROJECT_DIR$/f-flecha/flecha.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f-flecha/flecha.ts">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/destructuring/destructuring.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="285">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/destructuring/destructuring.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -44,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/variables/variable.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -53,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/variables/variable.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -62,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/variables/variable.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -70,13 +75,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="304">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/f-flecha/flecha.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,10 +116,12 @@
         <option value="$PROJECT_DIR$/hola-mundo/hola-mundo.js" />
         <option value="$PROJECT_DIR$/variables/index.html" />
         <option value="$PROJECT_DIR$/f-flecha/flecha.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/hola-mundo.html" />
         <option value="$PROJECT_DIR$/variables/variable.html" />
         <option value="$PROJECT_DIR$/variables/variable.ts" />
         <option value="$PROJECT_DIR$/f-flecha/flecha.ts" />
+        <option value="$PROJECT_DIR$/destructuring/destructuring.html" />
+        <option value="$PROJECT_DIR$/destructuring/destructuring.ts" />
+        <option value="$PROJECT_DIR$/hola-mundo/hola-mundo.html" />
       </list>
     </option>
   </component>
@@ -112,6 +142,11 @@
             <path>
               <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="typescript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="destructuring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
@@ -165,12 +200,13 @@
       <updated>1553184275250</updated>
       <workItem from="1553184278097" duration="1561000" />
       <workItem from="1553191468586" duration="697000" />
-      <workItem from="1553192897020" duration="1948000" />
+      <workItem from="1553192897020" duration="2329000" />
+      <workItem from="1553199091692" duration="1386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4206000" />
+    <option name="totallyTimeSpent" value="5973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="460" y="23" width="1400" height="1000" extended-state="0" />
@@ -200,8 +236,9 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/f-flecha/flecha.js" />
+        <option value="$PROJECT_DIR$/destructuring/destructuring.js" />
         <option value="$PROJECT_DIR$/hola-mundo/hola-mundo.js" />
+        <option value="$PROJECT_DIR$/f-flecha/flecha.js" />
         <option value="$PROJECT_DIR$/variables/variable.js" />
       </list>
     </option>
@@ -217,45 +254,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-flecha/index.html" />
     <entry file="file://$PROJECT_DIR$/hola-mundo/index.html" />
-    <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/variables/variable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/variables/variable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/variables/variable.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/f-flecha/flecha.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="380">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/destructuring/destructuring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/destructuring/destructuring.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-flecha/flecha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/hola-mundo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
