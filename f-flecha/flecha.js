@@ -12,7 +12,7 @@ function exampleNormalFunction(name) {
 var validate = function (name) {
     if (name === 'Angel')
         return name + " es mi nombre";
-    return 'No es mi nombre';
+    return 'No es mi nombre! ';
 };
 console.debug("Funcion --> " + exampleNormalFunction('PEDRO'));
 console.debug("Funcion --> " + validate('Angel'));

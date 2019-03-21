@@ -1,3 +1,10 @@
+// TODO funciones flecha - ES6
+/**
+ * Ventajas de la función flecha
+ * - Código minimalista
+ * - 1. Mantener nuestro código lo mas legible
+ * - 2.
+ * */
 let fNormal = function functionNormal(par: string) {
     return par;
 };
