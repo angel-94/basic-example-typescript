@@ -1,4 +1,4 @@
-function hola(nombre) {
+function hola(nombre:string) {
     console.log('Este es mi nombre ---> ', nombre);
 }
 
@@ -7,8 +7,8 @@ function holaObj(nombre) {
 }
 
 
-var nombre = 'Manuel angel ruiz sumano';
-var varName = {
+let nombre = 'Manuel angel ruiz sumano';
+let varName = {
     myName: 'Manue'
 };
 
@@ -16,6 +16,5 @@ var varName = {
 console.log('HOLA MUNDO');
 
 hola(nombre);
-hola(varName);
-
+// hola(varName);
 holaObj(varName);

@@ -17,7 +17,6 @@ console.debug(`Funcion --> ${fNormal('Normal')}`);
 console.debug(`Funcion --> ${fFlecha('Flecha')}`);
 
 
-
 function exampleNormalFunction(name: string) {
     if (name === 'Angel')
         return name;
@@ -33,3 +32,40 @@ let validate = (name: string) => {
 
 console.debug(`Funcion --> ${exampleNormalFunction('PEDRO')}`);
 console.debug(`Funcion --> ${validate('Angel')}`);
+
+
+let avenger = {
+    nombre: 'Hulk',
+    aplasta() {
+        setTimeout(
+            function () {
+                console.debug(`${this.nombre} aplastaaaaa!!!`)
+            }, 100
+        )
+    }
+};
+
+avenger.aplasta();
+
+
+
+
+let avenger2 = {
+    nombre: 'Hulk',
+    hola: true,
+    aplasta() {
+        setTimeout(
+            () => console.debug(`${this.nombre} aplastaaaaa!!!`), 100
+        )
+    }
+};
+
+class Hola {
+    uno: boolean = true;
+
+    constructor(uno: boolean = false) {
+        this.uno = uno
+    }
+}
+
+avenger2.aplasta();
